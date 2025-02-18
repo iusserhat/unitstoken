@@ -1,7 +1,7 @@
-fastapi
-uvicorn
-requests
-numpy
-pandas
-scikit-learn
-tensorflow
+fastapi==0.95.0
+uvicorn==0.22.0
+requests==2.28.1
+numpy==1.23.5
+pandas==1.5.2
+scikit-learn==1.2.0
+tensorflow==2.13.1
